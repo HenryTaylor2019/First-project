@@ -8,16 +8,17 @@ nav {
     text-decoration-style: none;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 18px;
-    /* border: 2px solid brown; */
     margin: auto;
-    width: 200px;
     padding: 5px;
 }
 
 a {
+    text-align: center;
     text-decoration: none;
     padding: 0px 5px;
     color: orangered;
+    border-right: 1px solid black;
+    border-left: 1px solid black;
 }
 
 a:hover {
