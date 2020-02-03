@@ -1,3 +1,29 @@
+body {
+    background-color: rgb(255, 254, 218);
+}
+nav {
+    text-align: center;
+    text-decoration-style: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    /* border: 2px solid brown; */
+    margin: auto;
+    width: 200px;
+    padding: 5px;
+}
+
+a {
+    text-decoration: none;
+    padding: 0px 5px;
+    color: orangered;
+}
+
+a:hover {
+    color: rgb(215, 215, 215);
+    background-color: rgb(145, 142, 63);
+    border-radius: 10%;
+}
+
 h1 {
     color: rebeccapurple;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
