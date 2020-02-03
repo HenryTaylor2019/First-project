@@ -1,0 +1,21 @@
+h1 {
+    color: rebeccapurple;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+p {
+    color: rgb(red, rgb(38, 43, 38), blue);
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.img-div {
+    text-align: center;
+    /* width: 500px; */
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
