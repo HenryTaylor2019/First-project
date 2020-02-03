@@ -1,6 +1,8 @@
 body {
-    background-color: rgb(255, 254, 218);
+    background-color: rgb(254, 253, 240);
 }
+
+/* NAVBAR START */
 nav {
     text-align: center;
     text-decoration-style: none;
@@ -23,6 +25,7 @@ a:hover {
     background-color: rgb(145, 142, 63);
     border-radius: 10%;
 }
+/* NAVBAR END */
 
 h1 {
     color: rebeccapurple;
@@ -35,7 +38,7 @@ p {
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-
+/* IMAGES START */
 .img-div {
     text-align: center;
     /* width: 500px; */
@@ -62,7 +65,7 @@ img {
     border: 5px solid brown;
     border-radius: 20%;
 }
-
+/* IMAGES END */
 
 .first-text {
     margin: auto;
