@@ -173,3 +173,16 @@ label {
 	text-transform: uppercase;
 	font-size: 14px;
 }
+
+/* FOOTER */
+
+footer {
+    text-align: center;
+    background-color: blueviolet;
+    padding: 30px;
+}
+
+footer p {
+    text-align: center;
+    color: cornsilk;
+}
